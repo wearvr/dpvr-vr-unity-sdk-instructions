@@ -8,34 +8,33 @@ Instructions for how to create new Unity virtual reality experiences for the DPV
 
 #### Support & Revenue share
 
-WEARVR.com, the world's largest independent VR app store, has partnered with Shanghai Lexiang Technology Co., Ltd to provide development kits and assistance with promotion, technical support and advice to help get your content into Pico's global marketplace (including China) - at no cost to you. You get the same high revenue share of 70%.
+WEARVR.com, the world's largest independent VR app store, has partnered with Shanghai Lexiang Technology Co., Ltd to provide development kits and assistance with promotion, technical support and advice to help get your content into DPVR's marketplace - at no cost to you. You get the same high revenue share of 70%.
 
 | Region | Developer Revenue Share |
 | :---: | :----: |
 | Worldwide | 70% |
 
+> TODO: Confirm this percentage with team
+
 #### Specifications
 
-View the [full headset specifications](https://www.wearvr.com/developer-center/devices/pico).
+View the [full headset specifications](https://www.wearvr.com/developer-center/devices/dpvr).
+
+> TODO: Confirm this page with team
 
 #### Requesting a development kit
 
-You can [request a Pico Goblin](/docs/pico-development-kit.md) to help get your VR experiences Pico-compatible.
+You can [request a DPVR All-In-One](/docs/dpvr-development-kit.md) device to help get your VR experiences DPVR-compatible.
+
+> TODO: Confirm this page with team
 
 ## Prerequisites
 
-You will require the following in order to develop a Pico app:
+You will require the following in order to develop a DPVR app:
 
 A compatible version of Unity:
 
-* ~~Unity 5: Unity 5.2 or greater~~ (Deprecated: Some Unity5 versions were supported on previous versions of the Pico SDK, but will have issues with modern kits)
-* UFor Unity2017, all versions are supported. Unity2017.1.0, Unity2017.2.0, Unity 2017.3.0 and 
-Unity2017.4.1 are recommended. 
-For Unity2018, it is currently supported to Unity2018.2.11, and Unity2018.1.0 and Unity2018.2.0 are 
-recommended. 
-
-* Either an Android 4.4 (or later) phone running Android API Level 19 or above, or a Pico Goblin or Pico Neo headset
-* JDK v1.7.0_01 or later
+* Unity3D
 
 ### User accounts and adding in-app purchases
 
