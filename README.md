@@ -34,7 +34,14 @@ You will require the following in order to develop a DPVR app:
 
 A compatible version of Unity:
 
-* Unity3D
+* Unity3D 5.3.4 
+* Unity3D 5.4.3 
+* Unity3D 5.5.0 
+* Unity3D 5.6.1 
+* Unity3D 2017.* 
+* Unity3D 2018.* 
+
+> All Unity3D 2017 and 2018 versions should be compatible with the DPVR SDK, but only some older versions of Unity are only verified to work correctly. Developers should try to match their projects with these versions to reduce the risk of plugins acting incorrectly.
 
 ### User accounts and adding in-app purchases
 
