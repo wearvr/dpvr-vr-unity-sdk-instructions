@@ -41,7 +41,7 @@ A compatible version of Unity:
 * Unity3D 2017.* 
 * Unity3D 2018.* 
 
-> All Unity3D 2017 and 2018 versions should be compatible with the DPVR SDK, but only some older versions of Unity are only verified to work correctly. Developers should try to match their projects with these versions to reduce the risk of plugins acting incorrectly.
+> All Unity3D 2017 and 2018 versions should be compatible with the DPVR SDK, but only some older versions of Unity are verified to work correctly. Developers should try to match their projects with these versions to reduce potential risks.
 
 ### User accounts and adding in-app purchases
 
