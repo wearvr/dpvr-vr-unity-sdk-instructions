@@ -49,10 +49,13 @@ You can easily create a new Unity VR app, but the fastest way to get up and runn
 
 * [Installing and configuring the DPVR SDK](/docs/dpvr-vr-unity-sdk-installation.md)
 * [Controller and headset inputs](/docs/dpvr-all-in-one-controllers.md)
+* [Configuring the AndroidManifest file](/docs/android-manifest.md)
 * [Building to the device](/docs/building-to-dpvr-all-in-one.md)
 
 Optional:
 
+* [DPVR Example Scenes](/docs/dpvr-example-scenes-overview.md)
+* [Porting considerations](/docs/dpvr-porting-considerations.md)
 * [Troubleshooting](/docs/troubleshooting.md)
 * [Optimizing DPVR experiences](/docs/optimizing-dpvr-experiences.md)
 * [Getting device information at runtime](/docs/getting-device-information-at-runtime.md)
@@ -72,7 +75,7 @@ Please get in touch on `devs@wearvr.com` to discuss your needs and how WEARVR ma
 
 ## Copyright & Trademarks
 
-These instructions and example project are maintained by WEARVR LLC, the largest independent virtual reality app store. WEARVR is interested in connecting VR content creators and consumers, globally. We love working with the VR community and would be delighted to hear from you at `devs@wearvr.com`.
+These instructions and example project are maintained by WEARVR LLC, The largest independent virtual reality app store. WEARVR is interested in connecting VR content creators and consumers, globally. We love working with the VR community and would be delighted to hear from you at `devs@wearvr.com`.
 
 You can find more information about WEARVR at www.wearvr.com
 
