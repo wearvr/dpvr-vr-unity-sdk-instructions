@@ -47,28 +47,20 @@ A compatible version of Unity:
 
 You can easily create a new Unity VR app, but the fastest way to get up and running on a DPVR device is to convert an existing Google Cardboard, Google Daydream, Pico or Samsung Gear VR experience.
 
-* [Installing and configuring the Pico VR Unity SDK](/docs/pico-vr-unity-sdk-installation.md)
-* [Camera & input module setup](/docs/pico-vr-camera-setup.md)
-* [Controller and headset inputs](/docs/pico-goblin-and-neo-controllers.md)
-* [Enabling USB debugging](/docs/pico-goblin-developer-mode-usb-debugging.md)
-* [Building to the device](/docs/building-to-pico-goblin.md)
+* [Installing and configuring the DPVR SDK](/docs/dpvr-vr-unity-sdk-installation.md)
+* [Controller and headset inputs](/docs/dpvr-all-in-one-controllers.md)
+* [Building to the device](/docs/building-to-dpvr-all-in-one.md)
 
 Optional:
 
-* [Working with the current user](/docs/pico-payment-sdk-user-management.md)
-* [Adding in-app purchases](/docs/pico-payment-sdk-in-app-purchases.md)
-* [Testing in-app purchases](/docs/testing-in-app-purchases.md)
 * [Troubleshooting](/docs/troubleshooting.md)
-* [Optimizing Pico experiences](/docs/optimizing-pico-experiences.md)
-* [Localization](/docs/pico-unity-localization.md)
+* [Optimizing DPVR experiences](/docs/optimizing-dpvr-experiences.md)
 * [Getting device information at runtime](/docs/getting-device-information-at-runtime.md)
 * [Overview of API](/docs/api-overview.md)
 
 Device:
 
-* [Connecting to a Wifi network](/docs/connecting-to-a-wifi-network.md)
-* [Upgrading the Pico Goblin OS & Firmware](/docs/upgrading-pico-goblin-operating-system-firmware.md)
-* [Changing the Pico Goblin's language](/docs/changing-pico-goblins-language-setting.md)
+* [Understanding the device interface](/docs/device-user-interface-guide.md)
 
 There is an [example project](examples/DPVRSDKExample/Readme.md) to use as a reference as you follow this guide.
 
