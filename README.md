@@ -43,15 +43,9 @@ A compatible version of Unity:
 
 > All Unity3D 2017 and 2018 versions should be compatible with the DPVR SDK, but only some older versions of Unity are verified to work correctly. Developers should try to match their projects with these versions to reduce potential risks.
 
-### User accounts and adding in-app purchases
-
-To access user information on the Pico Goblin headset, or add in-app purchases to your VR content, your app will normally need to already be [registered through WEARVR](https://users.wearvr.com/apps) to generate the necessary access credentials.
-
-If this is a problem, you can get in touch via `devs@wearvr.com` to discuss your needs.
-
 ## Overview
 
-You can easily create a new Unity VR app, but the fastest way to get up and running on Pico Goblin is to convert an existing Google Cardboard, Google Daydream or Samsung Gear VR experience.
+You can easily create a new Unity VR app, but the fastest way to get up and running on a DPVR device is to convert an existing Google Cardboard, Google Daydream, Pico or Samsung Gear VR experience.
 
 * [Installing and configuring the Pico VR Unity SDK](/docs/pico-vr-unity-sdk-installation.md)
 * [Camera & input module setup](/docs/pico-vr-camera-setup.md)
@@ -76,7 +70,7 @@ Device:
 * [Upgrading the Pico Goblin OS & Firmware](/docs/upgrading-pico-goblin-operating-system-firmware.md)
 * [Changing the Pico Goblin's language](/docs/changing-pico-goblins-language-setting.md)
 
-There is an [example project](examples/PicoUnityVRSDKExample/Readme.md) to use as a reference as you follow this guide.
+There is an [example project](examples/DPVRSDKExample/Readme.md) to use as a reference as you follow this guide.
 
 ## Unable to port yourself?
 
