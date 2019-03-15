@@ -65,7 +65,7 @@ Device:
 
 * [Understanding the device interface](/docs/device-user-interface-guide.md)
 
-There is an [example project](examples/DPVRSDKExample/Readme.md) to use as a reference as you follow this guide.
+There is an [example project](examples/Readme.md) to use as a reference as you follow this guide.
 
 ## Unable to port yourself?
 
