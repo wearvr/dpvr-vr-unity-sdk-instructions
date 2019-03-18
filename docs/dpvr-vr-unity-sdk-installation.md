@@ -27,8 +27,6 @@ After replacing the Camera the features associated with the original Camera mayr
 
 We reccomend using a WorldSpace canvas for UI elemets, as opposed to ScreenSpace. This is standard for most VR platforms, but can sometimes be a concern in poting projects.
 
-## Project settings
-
 ## AndroidManifest.xml file
 
 Your projects `Assets/Plugins/Android/AndroidManifest.xml` file should be replaced by a file contained within the DPVR plugin as it is imported.
@@ -51,3 +49,17 @@ If the game inherits from UnityPlayerActivity please change the inheritance to i
 `   </intent-filter>`
    
 ` </service>`
+
+## Project settings
+
+### Quality Settings
+
+In Edit->Project Settings->Quality change the following for all quality levels:
+
+1.  Set VSync to 'Don't Sync'. The DPVR SDK will handle it's own VSyncing internally.
+
+2.  If performace in the app is suffering consider setting 'Anti Aliasing' to 'Disabled'.
+
+<p align="center">
+  <img alt="Quality Settings"  width="500px" src="assets/QualitySettings.png">
+</p>
