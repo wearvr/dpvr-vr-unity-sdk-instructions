@@ -1,4 +1,4 @@
-## AndroidManifest.xml file
+# AndroidManifest.xml file
 
 Your projects `Assets/Plugins/Android/AndroidManifest.xml` file should be replaced by a file contained within the DPVR plugin as it is imported.
 
