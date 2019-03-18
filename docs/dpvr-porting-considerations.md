@@ -33,4 +33,4 @@ The DPVR P1 headset features a touch-sensitive button on the side, similar to th
 
 ## Next: Troubleshooting
 
-See [Troubleshooting](/docs/dpvr-porting-considerations.md).
+See [Troubleshooting](/docs/troubleshooting.md).
