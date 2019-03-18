@@ -22,15 +22,9 @@ The project contains the following implementations:
 
 ##### GameObjects
 
-* **GOUsingPointerEvents:** How to use pointer events to make GameObjects respond to headset or controller inputs
+* **GOUsingTouchInterface:** How to use touchpad to get guesture inputs
 * **GOUsingPointerHandlerInterface:** How to use the [Pointer*Handler](https://docs.unity3d.com/ScriptReference/EventSystems.IPointerClickHandler.html) interfaces to make GameObjects respond to headset or controller inputs
 * **GOUsingButtonHandlerInterface:** How to make GameObjects respond to non-pointer button and controller inputs
-
-##### UGUI objects
-
-* **UGUIUsingPointerEvents:** How to use pointer events to make `UGUI` objects respond to headset and controller inputs
-* **UGUIUsingPointerHandlerInterface:** How to use [Pointer*Handler, ScrollHandler, *DragHandler](https://docs.unity3d.com/ScriptReference/EventSystems.IPointerClickHandler.html) and `IOnHoverHandler` interfaces to make `UGUI` objects respond to headset and controller inputs
-* **UGUIUsingButtonHandlerInterface:** How to make `UGUI` objects respond to to non-pointer button and controller inputs
 
 ##### Input system
 
