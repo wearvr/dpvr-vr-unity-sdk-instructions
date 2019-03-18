@@ -48,3 +48,6 @@ The script does not cause issues on device, and as a time saving measure it's re
 
 To use the Auxiliary Mover script hold the 'Alt' and 'Right Mouse' buttons to enable looking around with the mouse.
 
+### Next: Setting up AndroidManifest.xml
+
+See [Android Manifest](/docs/android-manifest.md)
