@@ -36,6 +36,10 @@ To allow a project to use the DPVR controller some steps must first be taken.
 
 No other steps are neccesary. The DpnCameraRig prefab will generate all controller related prefabs, including code and models.
 
+<p align="center">
+  <img alt="Enabling flip controller" width="500px" src="assets/FlipWindow.svg">
+</p>
+
 ## Setting up in-Editor Input
 
 By default the DpnCameraRig prefab does not allow input or interaction inside Unity Editor mode, which can make it difficult to develop and test for. This can be somewhat mitigated by attaching the script 'DpnAuxiliaryMover.cs' that comes included in the DPVR plugin onto the scenes 'DpnCameraRig' prefab.
