@@ -31,4 +31,6 @@ In code the DPVR controllers are often reffered to as 'Daydream', or 'DpnDaydrea
 
 The DPVR P1 headset features a touch-sensitive button on the side, similar to the touch-pad on a Gear-VR HMD. However, the DPVR device does not track guestures or trackpad-style input like the Gear-VR and instead functions only as a button.
 
-See [Example Scenes](/docs/dpvr-example-scenes-overview.md).
+## Next: Troubleshooting
+
+See [Troubleshooting](/docs/troubleshooting.md).
