@@ -2,6 +2,8 @@
 
 > This guide assumes that input will match the 'P1' brand of headsets as well as their associated 3-DOF bluetooth controllers. More specific support for other headsets models will be provided as we gain the ability to supply them.
 
+> This guide also assumes that the latest version of the DPVRUnity plugin (0.7.4) is used, as some content referenced on this page does not exist on legacy versions of the plugin.
+
 Once you have [installed the DPVR Unity SDK](/docs/dpvr-vr-unity-sdk-installation.md), you can begin to bind to button events from the headset and controller.
 
 ## DPVR All-In-One P1 & Flip controller 
@@ -34,6 +36,11 @@ To allow a project to use the DPVR controller some steps must first be taken.
 
 No other steps are neccesary. The DpnCameraRig prefab will generate all controller related prefabs, including code and models.
 
+## Setting up in-Editor Input
 
+By default the DpnCameraRig prefab does not allow input or interaction inside Unity Editor mode, which can make it difficult to develop and test for. This can be somewhat mitigated by attaching the script 'DpnAuxiliaryMover.cs' that comes included in the DPVR plugin onto the scenes 'DpnCameraRig' prefab.
 
+The script does not cause issues on device, and as a time saving measure it's reccomended to simply apply this change onto the prefab itself rather than onto each instance of DpnCameraRig in scene heirarchy.
+
+To use the Auxiliary Mover script hold the 'Alt' and 'Right Mouse' buttons to enable looking around with the mouse.
 
