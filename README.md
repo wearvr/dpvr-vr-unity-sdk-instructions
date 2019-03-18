@@ -14,8 +14,6 @@ WEARVR.com, the world's largest independent VR app store, has partnered with Sha
 | :---: | :----: |
 | Worldwide | 80% |
 
-> TODO: Confirm this percentage with team
-
 #### Specifications
 
 View the [full headset specifications](https://www.wearvr.com/developer-center/devices/dpvr).
