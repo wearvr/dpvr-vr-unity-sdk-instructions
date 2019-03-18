@@ -27,30 +27,11 @@ After replacing the Camera the features associated with the original Camera mayr
 
 We reccomend using a WorldSpace canvas for UI elemets, as opposed to ScreenSpace. This is standard for most VR platforms, but can sometimes be a concern in poting projects.
 
-## AndroidManifest.xml file
-
-Your projects `Assets/Plugins/Android/AndroidManifest.xml` file should be replaced by a file contained within the DPVR plugin as it is imported.
-
-If you want to use a self-defined `AndroidManifest.xml` you can make one compatible with DPVR devices by following these steps:
-
-1.  Inherit from class DpvrActivity
-If the game inherits from UnityPlayerActivity please change the inheritance to inherit from `com.dpvr.sdk.DpvrActivity`. If the game does not inherit from UnityPlayeractivity please set `com.dpvr.sdk.DpvrActivity` as the main Activity.
-
-2.  Add the following metadata to declare this application as a VR application: `<meta-dataandroid:name="com.softwinner.vr.mode" android:value="vr"/>`
-
-3.  Add a VrListener statement:
-
-` <serviceandroid:name="com.dpvr.aw.vrsdk.VrListener" android:permission="android.permission.BIND_VR_LISTENER_SERVICE"> `
-   
-`   <intent-filter>`
-  
-`     <actionandroid:name="android.service.vr.VrListenerService"/> `
-  
-`   </intent-filter>`
-   
-` </service>`
-
 ## Project settings
+
+### Build Settings
+
+Apps built for DPVR devices should target Android as their build platform.
 
 ### Quality Settings
 
