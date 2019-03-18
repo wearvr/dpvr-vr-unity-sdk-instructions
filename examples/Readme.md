@@ -34,7 +34,7 @@ The project contains the following implementations:
 
 ##### Input system
 
-An example of how to recive inputs from the DPVR device, including key presses and guesture events.
+An example of how to recive inputs from the DPVR device, including key presses and gesture events.
 
 ##### Event system
 
