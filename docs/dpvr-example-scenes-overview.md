@@ -25,3 +25,7 @@ Example implimentation of a GUI screen-space camera. Of limited intended use for
 
 ### DpnDaydream (Scenes/Spheres.unity)
 Contains many spheres. A rendering test for DPVR devices.
+
+## Next: Troubleshooting
+
+See [Example Scenes](/docs/dpvr-porting-considerations.md).
