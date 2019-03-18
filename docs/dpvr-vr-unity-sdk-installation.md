@@ -80,3 +80,7 @@ In 'Edit->Project Settings->Player->Android Settings->Other Settings' set 'Use 3
 <p align="center">
   <img alt="Player Settings"  width="500px" src="assets/PlayerSettings.png">
 </p>
+
+### Next: Camera setup and input
+
+See [Camera & input module setup](/docs/dpvr-all-in-one-controllers.md)
