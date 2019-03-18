@@ -2,6 +2,8 @@
 
 Your projects `Assets/Plugins/Android/AndroidManifest.xml` file should be replaced by a file contained within the DPVR plugin as it is imported.
 
+### Custom AndroidManifest files (Optional)
+
 If you want to use a self-defined `AndroidManifest.xml` you can make one compatible with DPVR devices by following these steps:
 
 1.  Inherit from class DpvrActivity
@@ -20,3 +22,7 @@ If the game inherits from UnityPlayerActivity please change the inheritance to i
 `   </intent-filter>`
    
 ` </service>`
+
+### Next: Building to device
+
+See [Building to device](/docs/building-to-dpvr-all-in-one.md)
