@@ -12,7 +12,7 @@ WEARVR.com, the world's largest independent VR app store, has partnered with Sha
 
 | Region | Developer Revenue Share |
 | :---: | :----: |
-| Worldwide | 70% |
+| Worldwide | 80% |
 
 > TODO: Confirm this percentage with team
 
