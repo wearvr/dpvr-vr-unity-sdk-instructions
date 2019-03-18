@@ -28,8 +28,11 @@ Integrating with the controller is an **optional** step, but is highly encourage
 
 To allow a project to use the DPVR controller some steps must first be taken.
 
-1.  If it's not done already 
+1.  If it's not already installed, [Install the DPVR SDK.](/docs/dpvr-vr-unity-sdk-installation.md)
 
+2.  In the menu at 'DPVR->Settings' set the 'Peripheral Support' option to 'Flip'.
+
+No other steps are neccesary. The DpnCameraRig prefab will generate all controller related prefabs, including code and models.
 
 
 
