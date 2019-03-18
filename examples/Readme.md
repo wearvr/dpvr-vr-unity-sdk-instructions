@@ -32,6 +32,10 @@ The project contains the following implementations:
 * **UGUIUsingPointerHandlerInterface:** How to use [Pointer*Handler, ScrollHandler, *DragHandler](https://docs.unity3d.com/ScriptReference/EventSystems.IPointerClickHandler.html) and `IOnHoverHandler` interfaces to make `UGUI` objects respond to headset and controller inputs
 * **UGUIUsingButtonHandlerInterface:** How to make `UGUI` objects respond to to non-pointer button and controller inputs
 
+##### Input system
+
+An example of how to recive inputs from the DPVR device, including key presses and guesture events.
+
 ##### Event system
 
 An example of the DPVR event system and prefab set up to work with the flip controller on the DPVR All-In-One P1 device.
