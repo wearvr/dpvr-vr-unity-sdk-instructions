@@ -5,7 +5,7 @@ The DPVR Plugin (as of 2.7.4) comes with a number of example scenes. Each is des
 
 ## Example scenes
 
-each example scene is located within the DPVR plugin, within the 'DPN' folder and at the specified file location.
+Each example scene is located within the DPVR plugin, within the 'DPN' folder and at the specified file location.
 
 ### DpnDaydream 
 `DPN/Scenes/Mobile/DpnDaydream.unity`
@@ -31,7 +31,7 @@ Example of Pointer Graphics Raycaster as well as a Physics Raycaster to interact
 ### MultiLayer 
 `DPN/Scenes/MultiLayer.unity`
 
-Example implimentation of a GUI screen-space camera. Of limited intended use for a mobile-vr project.
+Example implementation of a GUI screen-space camera. Of limited intended use for a mobile-vr project.
 
 ### Spheres 
 `DPN/Scenes/Spheres.unity`
