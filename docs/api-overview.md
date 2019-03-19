@@ -73,6 +73,7 @@ Sections:
 | Call Method | DpnDaydreamController.IsTouching; |
 
 > For on frame down, use: TouchDown
+
 > For on frame released, use: TouchUp
 
 #### TouchPos
@@ -104,6 +105,7 @@ Sections:
 | Call Method | DpnDaydreamController.ClickButton; |
 
 > For on frame down, use: ClickButtonDown
+
 > For on frame released, use: ClickButtonUp
 
 
