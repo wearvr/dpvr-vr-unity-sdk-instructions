@@ -51,7 +51,7 @@ Integrating with the controller is an **optional** step, but is highly encourage
 
 Trigger.
 
-A: Trigger Button
+**A:** Trigger Button
 > Maps to DpnDaydreamController.TriggerButton;
 
 <p align="center">
