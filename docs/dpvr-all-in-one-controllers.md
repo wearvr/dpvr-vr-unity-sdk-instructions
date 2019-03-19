@@ -18,7 +18,7 @@ The DPVR P1 headset is a 3 degrees of freedom headset and allows for basic gaze-
 
 HMD Touchpad.
 
-A: HMD Action button.
+**A:** HMD Action button.
 > Maps to Input.touchCount and Input.GetMouseButton(0)
 
 <p align="center">
@@ -27,17 +27,17 @@ A: HMD Action button.
 
 System.
 
-A: Back Button
+**A:** Back Button
 
-B: SD-Card Slot
+**B:** SD-Card Slot
 
-C: Volume + -
+**C:** Volume + -
 
-D: Power
+**D:** Power
 
-E: Micro USB dock
+**E:** Micro USB dock
 
-F: 3.5mm Headphone Jack
+**F:** 3.5mm Headphone Jack
 
 #### 3-DOF controller
 
@@ -60,15 +60,15 @@ A: Trigger Button
 
 Face Buttons.
 
-A: Click Button
+**A:** Click Button
 > Maps to DpnDaydreamController.ClickButton;
 
-B: Power Indicator
+**B:** Power Indicator
 
-C: Back Button
+**C:** Back Button
 > Intended for system use, Avoid mapping to this key.
 
-D: Home Button
+**D:** Home Button
 > Intended for system use, Avoid mapping to this key.
 
 ## Setting up Controller support in Unity
