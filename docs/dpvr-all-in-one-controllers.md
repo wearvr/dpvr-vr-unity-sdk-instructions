@@ -16,6 +16,14 @@ The DPVR P1 headset is a 3 degrees of freedom headset and allows for basic gaze-
   <img alt="P1 button positions" width="500px" src="assets/DPVR P1 Labeled.svg">
 </p>
 
+Touchpad.
+
+<p align="center">
+  <img alt="P1 button positions" width="500px" src="assets/DPVR P1 Labeled Underside.svg">
+</p>
+
+System Buttons.
+
 #### 3-DOF controller
 
 Each headset is compatible with a Bluetooth controller. The controller supports 3 degrees of freedom and provides more opportunities for the user to interact with virtual reality experiences.
@@ -23,8 +31,16 @@ Each headset is compatible with a Bluetooth controller. The controller supports 
 Integrating with the controller is an **optional** step, but is highly encouraged for experiences that can make use of additional forms of input.
 
 <p align="center">
-  <img alt="Controller button positions" width="500px" src="assets/FlipDiagram.svg">
+  <img alt="Controller button positions" width="500px" src="assets/DPVR P1 Controller side Labelled.svg">
 </p>
+
+Trigger
+
+<p align="center">
+  <img alt="Controller button positions" width="500px" src="assets/DPVR P1 Controller Labelled.svg">
+</p>
+
+Face Buttons
 
 ## Setting up Controller support in Unity
 
