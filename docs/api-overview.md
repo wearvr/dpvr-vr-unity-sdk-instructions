@@ -26,6 +26,8 @@ Sections:
 | Returns | DpnConnectionState enumerator |
 | Call Method | DpnDaydreamController.State; |
 
+> DpnConnectionState values: Error -1, Disconnected 0, Scanning 1, Connecting 2, Connected 3, Bond 4, Unbond 5
+
 #### ApiStatus
 | Name | public DpnControllerApiStatus ApiStatus |
 | :---: | :----: |
@@ -33,6 +35,8 @@ Sections:
 | Parameters | None |
 | Returns | DpnControllerApiStatus enumerator |
 | Call Method | DpnDaydreamController.ApiStatus; |
+
+> DpnControllerApiStatus values: Error -1, Ok 0, Unsupported 1, NotAuthorized 2, Unavailable 3, ApiServiceObsolete 4, ApiClientObsolete 5, ApiMalfunction 6
 
 #### Orientation
 | Name | public Quaternion Orientation |
