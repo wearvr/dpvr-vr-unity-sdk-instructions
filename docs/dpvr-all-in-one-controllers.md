@@ -13,7 +13,7 @@ Once you have [installed the DPVR Unity SDK](/docs/dpvr-vr-unity-sdk-installatio
 The DPVR P1 headset is a 3 degrees of freedom headset and allows for basic gaze-based pointer input and some additional buttons for operating system functionality.
 
 <p align="center">
-  <img alt="P1 button positions" width="500px" src="assets/DPVR-P1-Buttons.svg">
+  <img alt="P1 button positions" width="500px" src="assets/DPVR P1 Labeled.svg">
 </p>
 
 #### 3-DOF controller

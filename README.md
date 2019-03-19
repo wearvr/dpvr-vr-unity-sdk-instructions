@@ -4,6 +4,10 @@
 
 Instructions for how to create new Unity virtual reality experiences for the DPVR virtual reality and personal cinema headsets (or port existing ones).
 
+<p align="center">
+  <img alt="P1 Headset" width="500px" src="/docs/assets/DPVR P1.svg">
+</p>
+
 ## DPVR All-In-One
 
 #### Support & Revenue share
