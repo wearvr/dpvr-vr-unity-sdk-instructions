@@ -30,6 +30,6 @@ Select the **File › Build Settings** menu option in Unity.
 
 Click the **Build** button and select where you would like to save the APK on your file system.
 
-## Next: Troubleshooting
+## Next: Example Scenes
 
 See [Example Scenes](/docs/dpvr-example-scenes-overview.md).
