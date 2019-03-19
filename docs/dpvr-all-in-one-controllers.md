@@ -16,13 +16,24 @@ The DPVR P1 headset is a 3 degrees of freedom headset and allows for basic gaze-
   <img alt="P1 button positions" width="500px" src="assets/DPVR P1 Labeled.svg">
 </p>
 
-Touchpad.
+HMD Touchpad.
+
+A: HMD Action button.
+> Maps to Input.touchCount and Input.GetMouseButton(0)
 
 <p align="center">
   <img alt="P1 button positions" width="500px" src="assets/DPVR P1 Labeled Underside.svg">
 </p>
 
-System Buttons.
+System.
+
+A: 
+
+B: 
+
+C: 
+
+D: 
 
 #### 3-DOF controller
 
