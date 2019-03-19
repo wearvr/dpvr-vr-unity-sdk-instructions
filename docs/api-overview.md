@@ -5,6 +5,7 @@
 Sections:
 * Static classes
 * Mobile bluetooth controller - DpnDaydreamController
+* Camera Rig - DpnCameraRig
 
 ## (1) Static classes
 
@@ -183,6 +184,69 @@ Sections:
 | Call Method | DpnDaydreamController.interactiveHand; |
 
 > interactiveHand: 0 = right, 1 = left
+
+## (3) Camera Rig - DpnCameraRig
+
+#### \_center_eye
+| Name | public Camera \_center_eye |
+| :---: | :----: |
+| Functionality | public Get propery of a HMD camera |
+| Parameters | can only be set privately |
+| Returns | eye camera |
+| Call Method | DpnCameraRig.\_instance.\_center_eye; |
+
+> An internal value, but accessible and useful in other classes.
+
+> Has similar properties for left and right eyes. \_left_eye, \_right_eye.
+
+#### \_center_transform
+| Name | public Transform \_center_transform |
+| :---: | :----: |
+| Functionality | public Get propery of a HMD camera Transform |
+| Parameters | can only be set privately |
+| Returns | eye transform |
+| Call Method | DpnCameraRig.\_instance.\_center_transform; |
+
+> An internal value, but accessible and useful in other classes.
+
+> Has similar properties for left and right eyes. \_left_transform, \_right_transform.
+
+| Name | public void Freeze(bool enabled) |
+| :---: | :----: |
+| Functionality | Freeze camera rig |
+| Parameters | enable or disable freeze |
+| Returns | None |
+| Call Method | DpnCameraRig.\_instance.Freeze(bool); |
+
+> Value for Freeze() can be gotten with GetFreezed()
+
+| Name | public void MonoScopic(bool enabled) |
+| :---: | :----: |
+| Functionality | set MonoScopic rendering |
+| Parameters | enable or disable MonoScopic rendering |
+| Returns | None |
+| Call Method | DpnCameraRig.\_instance.MonoScopic(bool); |
+
+> Value for MonoScopic() can be gotten with GetMonoScopic()
+
+| Name | public void GetPose() |
+| :---: | :----: |
+| Functionality | Get pose as Quaternion |
+| Parameters | None |
+| Returns | Pose as Quaternion |
+| Call Method | DpnCameraRig.\_instance.GetPose(); |
+
+| Name | public void GetPosition() |
+| :---: | :----: |
+| Functionality | Get position as Vector3 |
+| Parameters | None |
+| Returns | position as Vector3 |
+| Call Method | DpnCameraRig.\_instance.GetPosition(); |
+
+
+
+
+
 
 ## Next: Device user interface
 
