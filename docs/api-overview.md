@@ -243,10 +243,19 @@ Sections:
 | Returns | position as Vector3 |
 | Call Method | DpnCameraRig.\_instance.GetPosition(); |
 
+| Name | public void Recenter() |
+| :---: | :----: |
+| Functionality | Force pose recentre |
+| Parameters | None |
+| Returns | None |
+| Call Method | DpnCameraRig.\_instance.Recenter(); |
 
-
-
-
+| Name | public Vector3 WorldToScreenPoint(Vector3 position) |
+| :---: | :----: |
+| Functionality | Get world space to screen position, relative to centre eye |
+| Parameters | Vector3 world space position |
+| Returns | Returns screen space position of a world postion |
+| Call Method | DpnCameraRig.\_instance.WorldToScreenPoint(Vector3); |
 
 ## Next: Device user interface
 
