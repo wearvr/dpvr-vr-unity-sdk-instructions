@@ -71,6 +71,15 @@ Face Buttons.
 **D:** Home Button
 > Intended for system use, Avoid mapping to this key.
 
+Touchpad orientation.
+
+<p align="center">
+  <img alt="Controller button positions" width="500px" src="assets/TouchpadAxis.png">
+</p>
+
+The touchpad touched position can be collected using the method: `DpnDaydreamController.TouchPos;`.
+This returns a Vector2, which deffaults to (0,0) if the touchpad is not pressed. If it is pressed it will return numbers between 0 and 1 representing the position of the input, with (0,0) representing the top-most left, and (1,1) representing the bottom-most right.
+
 ## Setting up Controller support in Unity
 
 To allow a project to use the DPVR controller some steps must first be taken.
