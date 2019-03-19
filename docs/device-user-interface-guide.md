@@ -12,7 +12,7 @@ By default the devices are in Chinese. Some of the user interface is described h
 
 A. Left display. Reserved for content downloaded from DPVR. Store promotions, advertisement, featured content, etcetera.
 
-B. 
+B. App store
 
 ### Centre Panel
 
@@ -20,23 +20,23 @@ B.
   <img alt="Centre of the home screen"  width="500px" src="assets/HomeScreenC.png">
 </p>
 
-A. 
+A. Info bar. Battery, signal strength, time, ect.
 
 B. Centre display. Reserved for content downloaded from DPVR. Store promotions, advertisement, featured content, etcetera.
 
-C. 
+C. Options menu. Reset, tutorial, volume, brightness, cleanup, bluetooth, controller, screenshot and wifi.
 
-D. 
+D. Screen streaming
 
-E. 
+E. Search
 
-F. 
+F. AI Language
 
-G. 
+G. Recentre / Calibration
 
-H. 
+H. Switch background
 
-I. 
+I. Downloads, bookmarks, history
 
 ### Right Panel
 
@@ -44,17 +44,17 @@ I.
   <img alt="Right of the home screen"  width="500px" src="assets/HomeScreenR.png">
 </p>
 
-A. 
+A. Profile / Login
 
-B. 
+B. My apps. Contains some pre-installed apps that relate to system settings and shortcuts.
 
-C. 
+C. My files. Contains filters for videos, Apps, Pictures or All.
 
-D. 
+D. Order details. checkout / Basket for purchased content.
 
-E. 
+E. Storage / Memory
 
-F. 
+F. Contextual window. Displays content based on whether B, C or D is highlighted.
 
-G. 
+G. Delete / Uninstall
 
