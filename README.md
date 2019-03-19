@@ -1,6 +1,6 @@
 # DPVR Unity SDK Instructions
 
-> These instructions are relevant to SDK version 0.7.4
+> These instructions are relevant to DPVR SDK version 0.7.4
 
 Instructions for how to create new Unity virtual reality experiences for the DPVR virtual reality and personal cinema headsets (or port existing ones).
 
