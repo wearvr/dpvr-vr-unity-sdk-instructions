@@ -1,10 +1,10 @@
 # API overview
 
-> Instuctions relevant for DPVR SDK version 0.7.4
+> Instructions relevant for DPVR SDK version 0.7.4
 
 Sections:
 * Static classes
-* Mobile bluetooth controller - DpnDaydreamController
+* Mobile Bluetooth controller - DpnDaydreamController
 * Camera Rig - DpnCameraRig
 
 ## (1) Static classes
@@ -12,7 +12,7 @@ Sections:
 #### DpnDaydreamController
 | Name | public static DpnDaydreamController DpnDaydreamController |
 | :---: | :----: |
-| Functionality | Entry point for the contorller API |
+| Functionality | Entry point for the controller API |
 | Parameters | None |
 | Returns | Static instance of the controller API |
 | Call Method | DpnDaydreamController |
@@ -25,7 +25,7 @@ Sections:
 | Returns | Static instance of the DpnCameraRig |
 | Call Method | DpnCameraRig |
 
-## (2) Mobile bluetooth controller - DpnDaydreamController
+## (2) Mobile Bluetooth controller - DpnDaydreamController
 
 #### State
 | Name | public static DpnConnectionState State |
@@ -58,7 +58,7 @@ Sections:
 #### Gyro
 | Name | public static Vector3 Gyro |
 | :---: | :----: |
-| Functionality | Returns the contorllers gyroscope reading. |
+| Functionality | Returns the controllers gyroscope reading. |
 | Parameters | None |
 | Returns | The controllers current gyroscope reading, as right hand rule |
 | Call Method | DpnDaydreamController.Gyro; |
@@ -66,12 +66,12 @@ Sections:
 #### Accel
 | Name | public static Vector3 Accel |
 | :---: | :----: |
-| Functionality | Returns the contorllers acceleromiter reading. |
+| Functionality | Returns the controllers accelerometer reading. |
 | Parameters | None |
-| Returns | The controllers current acceleromiter reading, as right hand rule in meters per second squared |
+| Returns | The controllers current accelerometer reading, as right hand rule in meters per second squared |
 | Call Method | DpnDaydreamController.Gyro; |
 
-> The acceleromiter for the DPVR Daydream/Flip controller includes forces exerted by gravity. Unless the controller is in freefall or in a zero gravity enviroment it will read 9.8 m/s^2 on the Y axis.
+> The accelerometer for the DPVR Daydream/Flip controller includes forces exerted by gravity. Unless the controller is in freefall or in a zero gravity environment it will read 9.8 m/s^2 on the Y axis.
 
 #### IsTouching
 | Name | public static bool IsTouching |
@@ -108,7 +108,7 @@ Sections:
 #### ClickButton
 | Name | public static bool ClickButton |
 | :---: | :----: |
-| Functionality | Retrive the state of the touchpad button |
+| Functionality | Retrieve the state of the touchpad button |
 | Parameters | None |
 | Returns | If button is currently down |
 | Call Method | DpnDaydreamController.ClickButton; |
@@ -120,7 +120,7 @@ Sections:
 #### TriggerButton
 | Name | public static bool TriggerButton |
 | :---: | :----: |
-| Functionality | Retrive the state of the trigger |
+| Functionality | Retrieve the state of the trigger |
 | Parameters | None |
 | Returns | If trigger is currently down |
 | Call Method | DpnDaydreamController.TriggerButton; |
@@ -132,7 +132,7 @@ Sections:
 #### volumeUpButton
 | Name | public static bool volumeUpButton |
 | :---: | :----: |
-| Functionality | Retrive the state of the volume up button |
+| Functionality | Retrieve the state of the volume up button |
 | Parameters | None |
 | Returns | If volume up button is currently down |
 | Call Method | DpnDaydreamController.volumeUpButton; |
@@ -144,7 +144,7 @@ Sections:
 #### volumeDownButton
 | Name | public static bool volumeDownButton |
 | :---: | :----: |
-| Functionality | Retrive the state of the volume down button |
+| Functionality | Retrieve the state of the volume down button |
 | Parameters | None |
 | Returns | If volume down button is currently down |
 | Call Method | DpnDaydreamController.volumeDownButton; |
@@ -174,7 +174,7 @@ Sections:
 #### BackButton
 | Name | public static bool BackButton |
 | :---: | :----: |
-| Functionality | Retrive the state of the back button |
+| Functionality | Retrieve the state of the back button |
 | Parameters | None |
 | Returns | If back button is currently down |
 | Call Method | DpnDaydreamController.BackButton; |
@@ -186,7 +186,7 @@ Sections:
 #### interactiveHand
 | Name | public static int interactiveHand |
 | :---: | :----: |
-| Functionality | Get/Set propery of the interactive hand index |
+| Functionality | Get/Set property of the interactive hand index |
 | Parameters | int of 0 or 1 |
 | Returns | int of 0 or 1 |
 | Call Method | DpnDaydreamController.interactiveHand; |
@@ -198,7 +198,7 @@ Sections:
 #### \_center_eye
 | Name | public Camera \_center_eye |
 | :---: | :----: |
-| Functionality | public Get propery of a HMD camera |
+| Functionality | public Get property of a HMD camera |
 | Parameters | can only be set privately |
 | Returns | eye camera |
 | Call Method | DpnCameraRig.\_instance.\_center_eye; |
@@ -210,7 +210,7 @@ Sections:
 #### \_center_transform
 | Name | public Transform \_center_transform |
 | :---: | :----: |
-| Functionality | public Get propery of a HMD camera Transform |
+| Functionality | public Get property of a HMD camera Transform |
 | Parameters | can only be set privately |
 | Returns | eye transform |
 | Call Method | DpnCameraRig.\_instance.\_center_transform; |
@@ -262,7 +262,7 @@ Sections:
 | :---: | :----: |
 | Functionality | Get world space to screen position, relative to centre eye |
 | Parameters | Vector3 world space position |
-| Returns | Returns screen space position of a world postion |
+| Returns | Returns screen space position of a world position |
 | Call Method | DpnCameraRig.\_instance.WorldToScreenPoint(Vector3); |
 
 ## Next: Device user interface
