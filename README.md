@@ -4,7 +4,7 @@
 
 Instructions for how to create new Unity virtual reality experiences for the DPVR virtual reality and personal cinema headsets (or port existing ones).
 
-These guides target the DPVR P1 (Profesional One) Headset for mobile-vr applicaions, and it's compatible Flip controller.
+These guides target the DPVR P1 (Professional One) Headset for mobile-vr applications, and it's compatible Flip controller.
 
 <p align="center">
   <img alt="P1 Headset" width="500px" src="/docs/assets/DPVR P1.svg">
