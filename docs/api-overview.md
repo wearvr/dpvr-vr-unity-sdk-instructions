@@ -17,6 +17,14 @@ Sections:
 | Returns | Static instance of the controller API |
 | Call Method | DpnDaydreamController |
 
+#### DpnCameraRig
+| Name | public static DpnCameraRig DpnCameraRig |
+| :---: | :----: |
+| Functionality | Entry point for the camera rig, allowing access to information via it's '\_instance' property |
+| Parameters | None |
+| Returns | Static instance of the DpnCameraRig |
+| Call Method | DpnCameraRig |
+
 ## (2) Mobile bluetooth controller - DpnDaydreamController
 
 #### State
