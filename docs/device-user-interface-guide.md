@@ -10,9 +10,9 @@ By default the devices are in Chinese. Some of the user interface is described h
   <img alt="Left of the home screen"  width="500px" src="assets/HomeScreenL.png">
 </p>
 
-A. Left display. Reserved for content downloaded from DPVR. Store promotions, advertisement, featured content, etcetera.
+**A.** Left display. Reserved for content downloaded from DPVR. Store promotions, advertisement, featured content, etcetera.
 
-B. App store
+**B.** App store
 
 ### Centre Panel
 
@@ -20,23 +20,23 @@ B. App store
   <img alt="Centre of the home screen"  width="500px" src="assets/HomeScreenC.png">
 </p>
 
-A. Info bar. Battery, signal strength, time, ect.
+**A.** Info bar. Battery, signal strength, time, ect.
 
-B. Centre display. Reserved for content downloaded from DPVR. Store promotions, advertisement, featured content, etcetera.
+**B.** Centre display. Reserved for content downloaded from DPVR. Store promotions, advertisement, featured content, etcetera.
 
-C. Options menu. Reset, tutorial, volume, brightness, cleanup, bluetooth, controller, screenshot and wifi.
+**C.** Options menu. Reset, tutorial, volume, brightness, cleanup, bluetooth, controller, screenshot and wifi.
 
-D. Screen streaming
+**D.** Screen streaming
 
-E. Search
+**E.** Search
 
-F. AI Language
+**F.** AI Language
 
-G. Recentre / Calibration
+**G.** Recentre / Calibration
 
-H. Switch background
+**H.** Switch background
 
-I. Downloads, bookmarks, history
+**I.** Downloads, bookmarks, history
 
 ### Right Panel
 
@@ -44,17 +44,17 @@ I. Downloads, bookmarks, history
   <img alt="Right of the home screen"  width="500px" src="assets/HomeScreenR.png">
 </p>
 
-A. Profile / Login
+**A.** Profile / Login
 
-B. My apps. Contains some pre-installed apps that relate to system settings and shortcuts.
+**B.** My apps. Contains some pre-installed apps that relate to system settings and shortcuts.
 
-C. My files. Contains filters for videos, Apps, Pictures or All.
+**C.** My files. Contains filters for videos, Apps, Pictures or All.
 
-D. Order details. checkout / Basket for purchased content.
+**D.** Order details. checkout / Basket for purchased content.
 
-E. Storage / Memory
+**E.** Storage / Memory
 
-F. Contextual window. Displays content based on whether B, C or D is highlighted.
+**F.** Contextual window. Displays content based on whether B, C or D is highlighted.
 
-G. Delete / Uninstall
+**G.** Delete / Uninstall
 
