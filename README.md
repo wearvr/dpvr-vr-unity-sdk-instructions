@@ -8,7 +8,7 @@ Instructions for how to create new Unity virtual reality experiences for the DPV
 
 #### Support & Revenue share
 
-WEARVR.com, the world's largest independent VR app store, has partnered with Shanghai Lexiang Technology Co., Ltd to provide development kits and assistance with promotion, technical support and advice to help get your content into DPVR's marketplace - at no cost to you. You get the same high revenue share of 80%.
+WEARVR.com, The world's largest independent VR app store, has partnered with Shanghai Lexiang Technology Co., Ltd to provide development kits and assistance with promotion, technical support and advice to help get your content into DPVR's marketplace - at no cost to you. You get the same high revenue share of 80%.
 
 | Region | Developer Revenue Share |
 | :---: | :----: |
