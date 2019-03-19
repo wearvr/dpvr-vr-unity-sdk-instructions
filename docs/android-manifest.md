@@ -7,7 +7,7 @@ Your projects `Assets/Plugins/Android/AndroidManifest.xml` file should be replac
 If you want to use a self-defined `AndroidManifest.xml` you can make one compatible with DPVR devices by following these steps:
 
 1.  Inherit from class DpvrActivity
-If the game inherits from UnityPlayerActivity please change the inheritance to inherit from `com.dpvr.sdk.DpvrActivity`. If the game does not inherit from UnityPlayeractivity please set `com.dpvr.sdk.DpvrActivity` as the main Activity.
+If the game inherits from UnityPlayerActivity please change the inheritance to inherit from `com.dpvr.sdk.DpvrActivity`. If the game does not inherit from UnityPlayerActivity please set `com.dpvr.sdk.DpvrActivity` as the main Activity.
 
 2.  Add the following metadata to declare this application as a VR application: `<meta-dataandroid:name="com.softwinner.vr.mode" android:value="vr"/>`
 
