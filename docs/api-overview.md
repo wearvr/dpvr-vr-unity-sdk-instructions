@@ -108,7 +108,49 @@ Sections:
 
 > For on frame released, use: ClickButtonUp
 
+#### TriggerButton
+| Name | public static bool TriggerButton |
+| :---: | :----: |
+| Functionality | Retrive the state of the trigger |
+| Parameters | None |
+| Returns | If trigger is currently down |
+| Call Method | DpnDaydreamController.TriggerButton; |
 
+> For on frame down, use: TriggerButtonDown
+
+> For on frame released, use: TriggerButtonUp
+
+#### volumeUpButton
+| Name | public static bool volumeUpButton |
+| :---: | :----: |
+| Functionality | Retrive the state of the volume up button |
+| Parameters | None |
+| Returns | If volume up button is currently down |
+| Call Method | DpnDaydreamController.volumeUpButton; |
+
+> For on frame down, use: volumeUpButtonDown
+
+> For on frame released, use: volumeUpButtonUp
+
+#### volumeDownButton
+| Name | public static bool volumeDownButton |
+| :---: | :----: |
+| Functionality | Retrive the state of the volume down button |
+| Parameters | None |
+| Returns | If volume down button is currently down |
+| Call Method | DpnDaydreamController.volumeDownButton; |
+
+> For on frame down, use: volumeDownButtonDown
+
+> For on frame released, use: volumeDownButtonUp
+
+#### ErrorDetails
+| Name | public static string ErrorDetails |
+| :---: | :----: |
+| Functionality | If State == DpnConnectionState.Error, this contains details about the error. |
+| Parameters | None |
+| Returns | Error string |
+| Call Method | DpnDaydreamController.ErrorDetails; |
 
 #### TouchGestureUp
 | Name | public static bool TouchGestureUp |
@@ -120,6 +162,27 @@ Sections:
 
 > Similar functions exist for each cardinal direction. (TouchGestureUp, TouchGestureLeft, TouchGestureDown, TouchGestureRight)
 
+#### BackButton
+| Name | public static bool BackButton |
+| :---: | :----: |
+| Functionality | Retrive the state of the back button |
+| Parameters | None |
+| Returns | If back button is currently down |
+| Call Method | DpnDaydreamController.BackButton; |
+
+> For on frame down, use: BackButtonDown
+
+> For on frame released, use: BackButtonUp
+
+#### interactiveHand
+| Name | public static int interactiveHand |
+| :---: | :----: |
+| Functionality | Get/Set propery of the interactive hand index |
+| Parameters | int of 0 or 1 |
+| Returns | int of 0 or 1 |
+| Call Method | DpnDaydreamController.interactiveHand; |
+
+> interactiveHand: 0 = right, 1 = left
 
 ## Next: Device user interface
 
