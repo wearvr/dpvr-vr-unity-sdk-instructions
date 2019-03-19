@@ -23,9 +23,9 @@ Delete the existing `MainCamera` from your scene and drag the prefab `DPN/Prefab
   <img alt="Drag the DpnCameraRig.prefab into your scene" width="500px" src="assets/DragPrefabIntoScene.png">
 </p>
 
-After replacing the Camera the features associated with the original Camera mayr equire some adjustments.
+After replacing the Camera the features associated with the original Camera may require some adjustments.
 
-We reccomend using a WorldSpace canvas for UI elemets, as opposed to ScreenSpace. This is standard for most VR platforms, but can sometimes be a concern in poting projects.
+We recommend using a WorldSpace canvas for UI elements, as opposed to ScreenSpace. This is standard for most VR platforms, but can sometimes be a concern in porting projects.
 
 ## Project settings
 
@@ -39,7 +39,7 @@ In 'Edit->Project Settings->Quality' change the following for all quality levels
 
 1.  Set VSync to 'Don't Sync'. The DPVR SDK will handle it's own VSyncing internally.
 
-2.  If performace in the app is suffering consider setting 'Anti Aliasing' to 'Disabled'.
+2.  If performance in the app is suffering consider setting 'Anti Aliasing' to 'Disabled'.
 
 <p align="center">
   <img alt="Quality Settings"  width="500px" src="assets/QualitySettings.png">
