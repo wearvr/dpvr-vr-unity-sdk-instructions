@@ -82,7 +82,7 @@ To allow a project to use the DPVR controller some steps must first be taken.
 No other steps are necessary. The DpnCameraRig prefab will generate all controller related prefabs, including code and models.
 
 <p align="center">
-  <img alt="Enabling flip controller" width="500px" src="assets/FlipWindow.svg">
+  <img alt="Enabling flip controller" width="500px" src="assets/FlipWindow.png">
 </p>
 
 ## Setting up in-Editor Input
