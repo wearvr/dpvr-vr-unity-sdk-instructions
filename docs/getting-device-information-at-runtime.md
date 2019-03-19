@@ -1,8 +1,6 @@
 # Getting device information at runtime
 
-Code to access platform specicic system values.
-
-Currently the DPVR P1 is the only mobile device supported. So distingushing between platforms has not been investigated.
+> Currently the DPVR P1 is the only mobile device supported. So distingushing between platforms has not been investigated. All mobile-vr projects should target the P1 device.
 
 ## Next: API overview
 
