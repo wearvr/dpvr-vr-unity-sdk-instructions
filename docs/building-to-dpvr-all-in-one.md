@@ -18,10 +18,6 @@ Select **Android** and then click the **Switch Platform** button.
 
 Connect your charged device via USB to your development machine and then select the **File › Build & Run** menu option in Unity.
 
-<p align="center">
-  <img alt="Select the Build & Run menu option" width="500px" src="assets/BuildAndRunImage.png">
-</p>
-
 Your app should then be installed and launched on the device.
 
 ## Building an APK
