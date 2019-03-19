@@ -49,13 +49,27 @@ Integrating with the controller is an **optional** step, but is highly encourage
   <img alt="Controller button positions" width="500px" src="assets/DPVR P1 Controller side Labelled.svg">
 </p>
 
-Trigger
+Trigger.
+
+A: Trigger Button
+> Maps to DpnDaydreamController.TriggerButton;
 
 <p align="center">
   <img alt="Controller button positions" width="500px" src="assets/DPVR P1 Controller Labelled.svg">
 </p>
 
-Face Buttons
+Face Buttons.
+
+A: Click Button
+> Maps to DpnDaydreamController.ClickButton;
+
+B: Power Indicator
+
+C: Back Button
+> Intended for system use, Avoid mapping to this key.
+
+D: Home Button
+> Intended for system use, Avoid mapping to this key.
 
 ## Setting up Controller support in Unity
 
