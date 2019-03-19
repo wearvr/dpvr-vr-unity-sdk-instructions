@@ -1,6 +1,8 @@
 # Optimising for DPVR
 
+###Build Settings
 
+In 'Edit->Project Settings->Quality' it is reccomended to set 'Anti Aliasing' to 'Disabled'.
 
 ## Next: Getting device information at runtime
 
