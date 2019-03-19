@@ -4,4 +4,4 @@
 
 ## Next: API overview
 
-See [Troubleshooting](/docs/api-overview.md).
+See [API overview](/docs/api-overview.md).
