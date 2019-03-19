@@ -72,21 +72,8 @@ Sections:
 | Returns | Is the user is currently touching the controller's touchpad |
 | Call Method | DpnDaydreamController.IsTouching; |
 
-#### TouchDown
-| Name | public static bool TouchDown |
-| :---: | :----: |
-| Functionality | Acquire if touchpad was just touched this frame |
-| Parameters | None |
-| Returns | Is the user is currently touching the controller's touchpad but was not last frame |
-| Call Method | DpnDaydreamController.TouchDown; |
-
-#### TouchUp
-| Name | public static bool TouchUp |
-| :---: | :----: |
-| Functionality | Acquire if touchpad was just released this frame |
-| Parameters | None |
-| Returns | Is the user is not currently touching the controller's touchpad but was last frame |
-| Call Method | DpnDaydreamController.TouchUp; |
+> For on frame down, use: TouchDown
+> For on frame released, use: TouchUp
 
 #### TouchPos
 | Name | public static Vector2 TouchPos |
@@ -96,13 +83,7 @@ Sections:
 | Returns | Touch position |
 | Call Method | DpnDaydreamController.TouchPos; |
 
-#### TouchPosUp
-| Name | public static Vector2 TouchPosUp |
-| :---: | :----: |
-| Functionality | Get touch position |
-| Parameters | None |
-| Returns | Touch position |
-| Call Method | DpnDaydreamController.TouchPosUp; |
+> For on frame released, use: TouchPosUp
 
 #### Recentering
 | Name | public static bool Recentering |
@@ -111,6 +92,21 @@ Sections:
 | Parameters | None |
 | Returns | True if user is recentering |
 | Call Method | DpnDaydreamController.Recentering; |
+
+> For on recentre completed, use: Recentered
+
+#### ClickButton
+| Name | public static bool ClickButton |
+| :---: | :----: |
+| Functionality | Retrive the state of the touchpad button |
+| Parameters | None |
+| Returns | If button is currently down |
+| Call Method | DpnDaydreamController.ClickButton; |
+
+> For on frame down, use: ClickButtonDown
+> For on frame released, use: ClickButtonUp
+
+
 
 #### TouchGestureUp
 | Name | public static bool TouchGestureUp |
