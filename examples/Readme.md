@@ -14,7 +14,7 @@ Open this folder in Unity as a new project.
 
 Once in Unity, open the `Assets\Demo` scene.
 
-![Example project](ExampleProject.png)
+![Example project](/assets/ExampleProject.png)
 
 ## Overview
 
