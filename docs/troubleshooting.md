@@ -4,4 +4,4 @@
 
 ## Next: Optimising for DPVR
 
-See [Troubleshooting](/docs/optimizing-dpvr-experiences.md).
+See [Optimising for DPVR](/docs/optimizing-dpvr-experiences.md).
