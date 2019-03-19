@@ -1,5 +1,7 @@
 # Device user interface
 
+By default the devices are in Chinese. Some of the user interface has been mapped out here for ease of access.
+
 ## Home Screen 
 
 ### Left Panel
