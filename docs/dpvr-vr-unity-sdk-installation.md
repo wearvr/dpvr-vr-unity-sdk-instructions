@@ -53,13 +53,19 @@ In 'Edit->Project Settings->Time' set 'Fixed Timestep' to 0.01;
 
 In 'Edit->Project Settings->Player->Resolution and Presentation' set 'Default Orientation' to 'Landscape Left'.
 
-In 'Edit->Project Settings->Player->Android Settings->Other Settings' set 'Multithreaded Rendering' to 'enabled'.
-
 In 'Edit->Project Settings->Player->Android Settings->Other Settings' set 'Use 32-bit Display Buffer' to 'enabled'.
 > This is a requirement for the P1 device, but optional for the other dpvr platforms.
 
 <p align="center">
-  <img alt="Player Settings"  width="500px" src="assets/PlayerSettings.png">
+  <img alt="Player Settings"  width="500px" src="assets/PlayerSettings1.png">
+</p>
+
+In 'Edit->Project Settings->Player->Android Settings->Other Settings' set 'Multithreaded Rendering' to 'enabled'.
+
+In 'Edit->Project Settings->Player->Android Settings->Other Settings' set 'Virtual Reality Supported' to 'disabled'.
+
+<p align="center">
+  <img alt="Player Settings"  width="500px" src="assets/PlayerSettings2.png">
 </p>
 
 ### Next: Input
