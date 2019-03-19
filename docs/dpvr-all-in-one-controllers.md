@@ -27,13 +27,17 @@ A: HMD Action button.
 
 System.
 
-A: 
+A: Back Button
 
-B: 
+B: SD-Card Slot
 
-C: 
+C: Volume + -
 
-D: 
+D: Power
+
+E: Micro USB dock
+
+F: 3.5mm Headphone Jack
 
 #### 3-DOF controller
 
