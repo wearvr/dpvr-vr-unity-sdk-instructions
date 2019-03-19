@@ -4,4 +4,4 @@
 
 ## Next: Device user interface
 
-See [Troubleshooting](/docs/device-user-interface-guide.md).
+See [Device user interface](/docs/device-user-interface-guide.md).
