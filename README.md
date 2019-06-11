@@ -73,7 +73,7 @@ There is an [example project](examples/Readme.md) to use as a reference as you f
 
 ## Unable to port yourself?
 
-Depending on availability and need, WEARVR may be able to provide addition support to help port your existing VR experiences to be compatible with the DPVR All-In-One System, all the way up to completing the port for you and localizing it for the Chinese market.
+Depending on availability and need, WEARVR may be able to provide additional support to help port your existing VR experiences to be compatible with the DPVR All-In-One System, all the way up to completing the port for you and localizing it for the Chinese market.
 
 Please get in touch on `devs@wearvr.com` to discuss your needs and how WEARVR may be able to help.
 
