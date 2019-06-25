@@ -5,8 +5,6 @@
 
 The DPVR Unity VR SDK comes as a .unitypackage that you can import into your project via the **Assets › Import Package › Custom Package...** menu option in Unity.
 
-> TODO: Download link should be updated to allow SDK access through site.
-
 You can <a href="https://users.wearvr.com/developers/devices/dpvr/resources/vr-unity-package" target="_blank">download the DPVR Unity SDK</a> from WEARVR. You will be asked to create or sign in to your developer account.
 
 <p align="center">
