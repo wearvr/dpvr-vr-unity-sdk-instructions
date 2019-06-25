@@ -24,13 +24,9 @@ WEARVR.com, The world's largest independent VR app store, has partnered with Sha
 
 View the [full headset specifications](https://www.wearvr.com/developer-center/devices/dpvr).
 
-> TODO: Confirm this page with team
-
 #### Requesting a development kit
 
 You can [request a DPVR All-In-One](/docs/dpvr-development-kit.md) device to help get your VR experiences DPVR-compatible.
-
-> TODO: Confirm this page with team
 
 ## Prerequisites
 
